@@ -1,2 +1,2 @@
-# Programaci-n--1dam
+# Programacion-1dam
 Ejercicios deProgramación
